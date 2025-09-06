@@ -14,3 +14,18 @@ Follow along as I share my notes, summaries, and reflections.
 - `day-xx/notes.md` → Daily learnings
 - `week-xx-summary/summary.md` → Weekly reflection
 - `README.md` → This file (overview of the journey)
+
+---
+
+## ✅ Progress
+
+| Day | Topic | Link |
+|-----|-------|------|
+| 1 | Introduction to GitHub | [Day 1 Notes](day-01/notes.md) |
+| 2 | Git Basics | [Day 2 Notes](day-02/notes.md) |
+| 3 | Markdown Practice | [Day 3 Notes](day-03/notes.md) |
+
+---
+
+## 📅 Weekly Reflections
+- [Week 1 Summary](week-01-summary/summary.md)
