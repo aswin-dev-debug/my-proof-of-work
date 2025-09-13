@@ -23,7 +23,9 @@ Follow along as I share my notes, summaries, and reflections.
 |-----|-------|------|
 | 1 | Introduction to GitHub | [Day 1 Notes](day-01/notes.md) |
 | 2 | Rust Basics & Comments | [Day 2 Notes](day-02/notes.md) |
-| 3 | Rust types & inference | [Day 3 Notes](day-03/notes.md) |
+| 3 | Rust Types, Unicode, Inference | [Day 3 Notes](day-03/notes.md) |
+| 4 | Rust Functions & Variables | [Day 4 Notes](day-04/notes.md) |
+
 
 ---
 
