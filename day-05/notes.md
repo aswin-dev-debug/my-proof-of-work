@@ -69,3 +69,6 @@ fn main() {
 fn times_two(number: i32) -> i32{
     number * 2
 }
+
+
+online compiler practiced link: https://gist.github.com/rust-play/9f1fb0efff3cab2fe75e111efbd65394
