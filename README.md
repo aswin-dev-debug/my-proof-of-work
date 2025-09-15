@@ -26,6 +26,7 @@ Follow along as I share my notes, summaries, and reflections.
 | 3 | Rust Types, Unicode, Inference | [Day 3 Notes](day-03/notes.md) |
 | 4 | Rust Functions & Variables | [Day 4 Notes](day-04/notes.md) |
 | 5 | Mutability & Shadowing in Rust | [Day 5 Notes](day-05/notes.md) |
+| 6 | Stack vs Heap & References | [Day 6 Notes](day-06/notes.md) |
 
 
 ---
