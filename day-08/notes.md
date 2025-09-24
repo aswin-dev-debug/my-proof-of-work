@@ -43,3 +43,5 @@ fn main() {
     // Converting into String
     let my_string: String = "Try to make a string".into();
 }
+
+https://gist.github.com/rust-play/602ca0b8b3d4fd6c0d3af9a4b82ff650 (rust coding page link)
