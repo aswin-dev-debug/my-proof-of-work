@@ -38,3 +38,5 @@ fn main() {
     println!("{}", NUMBER_OF_MONTHS);
     println!("{}", SEASONS[3]);
 }
+
+##link:https://gist.github.com/rust-play/57d64d506c5a89fe9fcc09870376b38b
