@@ -29,6 +29,7 @@ Follow along as I share my notes, summaries, and reflections.
 | 6 | Stack vs Heap & References | [Day 6 Notes](day-06/notes.md) |
 | 7 | Advanced printing Details |  [Day 7 Notes](day-07/notes.md) |
 | 8 | Strings in Rust | [Day 8 Notes](day-08/notes.md) |
+| 9 | const & string Rust | [Day 9 Notes](day-09/notes.md) |
 
 
 ---
