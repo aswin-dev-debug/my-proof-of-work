@@ -46,3 +46,6 @@ fn main() {
     println!("{},{},{}", country, ref_one, ref_two);
     println!("from outside scope: {}", country2);
 }
+
+
+link::https://gist.github.com/rust-play/eac8ca19c386eb16ae313e3c9fdfb975
