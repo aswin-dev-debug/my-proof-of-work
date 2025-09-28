@@ -31,6 +31,7 @@ Follow along as I share my notes, summaries, and reflections.
 | 8 | Strings in Rust | [Day 8 Notes](day-08/notes.md) |
 | 9 | const & string Rust | [Day 9 Notes](day-09/notes.md) |
 | 10 | more about refernces in rust | [Day 10 Notes](day-10/notes.md) |
+| 11 | more about refernces in rust | [Day 11 Notes](day-11/notes.md) |
 
 
 ---
