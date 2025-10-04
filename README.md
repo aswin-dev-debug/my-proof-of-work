@@ -32,6 +32,7 @@ Follow along as I share my notes, summaries, and reflections.
 | 9 | const & string Rust | [Day 9 Notes](day-09/notes.md) |
 | 10 | more about refernces in rust | [Day 10 Notes](day-10/notes.md) |
 | 11 | more about refernces in rust | [Day 11 Notes](day-11/notes.md) |
+| 12 | Copy Trait, Clone, and Initialization | [Day 12 Notes](day-12/notes.md) |
 
 
 ---
