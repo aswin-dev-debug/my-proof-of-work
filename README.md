@@ -34,7 +34,7 @@ Follow along as I share my notes, summaries, and reflections.
 | 11 | more about refernces in rust | [Day 11 Notes](day-11/notes.md) |
 | 12 | Copy Trait, Clone, and Initialization | [Day 12 Notes](day-12/notes.md) |
 | 13 | Arrays and Slicing in Rust | [Day 13 Notes](day-13/notes.md) |
-
+| 14 | Vectors in Rust | [Day 14 Notes](day-14/notes.md) |
 
 ---
 
