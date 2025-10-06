@@ -63,7 +63,7 @@ fn main() {
     println!("After 4 pushes: {}", num_vec.capacity());
     num_vec.push('a');
     println!("After 5 pushes: {}", num_vec.capacity());
-
+https://gist.github.com/rust-play/1fa71d880dabb473f9d30875e44ccdb5
     // Using .into() to convert arrays into vectors
     let my_vec2: Vec<_> = [9, 0, 10].into();
     println!("Converted using .into(): {:?}", my_vec2);
