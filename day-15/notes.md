@@ -39,3 +39,5 @@ fn main() {
 
     // If you want to skip variables during destructuring, use '_'
 }
+
+rust code:https://gist.github.com/rust-play/19de3cecdc873675a002f0c04b3d0170
