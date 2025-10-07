@@ -35,6 +35,7 @@ Follow along as I share my notes, summaries, and reflections.
 | 12 | Copy Trait, Clone, and Initialization | [Day 12 Notes](day-12/notes.md) |
 | 13 | Arrays and Slicing in Rust | [Day 13 Notes](day-13/notes.md) |
 | 14 | Vectors in Rust | [Day 14 Notes](day-14/notes.md) |
+| 15 | Tuples in Rust | [Day 15 Notes](day-15/notes.md) |
 
 ---
 
