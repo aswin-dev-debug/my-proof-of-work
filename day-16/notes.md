@@ -12,7 +12,8 @@ I explored how to control program logic using `if`, `else if`, `else`, and the p
 - Logical operators: `&&` (AND) and `||` (OR)  
 - The `match` expression as a cleaner alternative to multiple `if` statements  
 - Matching tuples and combining conditions  
-- Match guards: adding conditional checks inside `match` arms  
+- Match guards: adding conditional checks inside `match` arms
+- code link: https://gist.github.com/rust-play/be1736b6121da57b8ed5e6c4b410bc3d
 
 ---
 
