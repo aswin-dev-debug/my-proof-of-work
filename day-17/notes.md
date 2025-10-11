@@ -11,8 +11,8 @@ I explored how to use **match guards**, **pattern matching with tuples**, and **
 - Match guards with conditional checks inside pattern matches (`if` inside `match`)  
 - Tuple pattern matching with RGB color values  
 - Using `@` (pattern binding) to capture matched values  
-- Scoping variables inside `if` and `else` blocks  
-
+- Scoping variables inside `if` and `else` blocks
+- code link:https://gist.github.com/rust-play/f630645abcb24c23c91d3d81178fa743
 ---
 
 ## 🧩 Code Example
