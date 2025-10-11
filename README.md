@@ -37,6 +37,7 @@ Follow along as I share my notes, summaries, and reflections.
 | 14 | Vectors in Rust | [Day 14 Notes](day-14/notes.md) |
 | 15 | Tuples in Rust | [Day 15 Notes](day-15/notes.md) |
 | 16 | control flow in Rust | [Day 16 Notes](day-16/notes.md) |
+| 17 | control flow Adavnced in Rust | [Day 17 Notes](day-17/notes.md) |
 
 
 ---
