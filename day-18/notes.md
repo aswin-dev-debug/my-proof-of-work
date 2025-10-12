@@ -15,6 +15,7 @@ Structs are powerful for organizing and grouping related data in Rust programs.
 - Using `#[derive(Debug)]` to print struct data with `{:?}`
 - Nesting structs within other structs
 - Example of creating a real-world structure (`Country`)
+- code link:https://gist.github.com/rust-play/08778efd369c06f180f4e7ece1e671a1
 
 ---
 
