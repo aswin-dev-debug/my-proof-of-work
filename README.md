@@ -39,6 +39,7 @@ Follow along as I share my notes, summaries, and reflections.
 | 16 | control flow in Rust | [Day 16 Notes](day-16/notes.md) |
 | 17 | control flow Adavnced in Rust | [Day 17 Notes](day-17/notes.md) |
 | 18 | structure in Rust | [Day 18 Notes](day-18/notes.md) |
+| 18 | enum in Rust | [Day 19 Notes](day-19/notes.md) |
 
 
 ---
